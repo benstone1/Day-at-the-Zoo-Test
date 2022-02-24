@@ -1,0 +1,20 @@
+{
+  "name": "back-end",
+  "version": "15.3.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "npm": "7.8.0",
+    "node": "15.3.0"
+  },
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "node": "^17.4.0"
+  }
+}
